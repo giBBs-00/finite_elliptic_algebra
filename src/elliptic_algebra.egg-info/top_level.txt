@@ -1,4 +1,0 @@
-elliptic-algebra
-gf
-polynomial
-prime
